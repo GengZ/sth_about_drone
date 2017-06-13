@@ -10,7 +10,7 @@ The structure of the repo is as below:
   
   *Tips*: It mimicks the original DJI_sdk_demo. So some hint might be got here...
   
-  *For use*: Follow the instruction of the **DJI_sdk_read_cam** in this repo.
+  *For use*: Follow the instruction of the **DJI_sdk_read_cam** in this repo.
 ***
 
 * dji_sdk_read_cam
